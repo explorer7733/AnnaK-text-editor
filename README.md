@@ -14,15 +14,15 @@ My goal was to build a single-page web application "Text Editor"  that runs the 
 
 ## Usage
 
-Access the application in browser at http://localhost:3001 UPDATE!!!!!!!!!!
+Access the application in browser at http://localhost:3000
 
 ## Link and Screenshot
 
 To review "AnnaK-text-editor", you can click on the link and see the screenshot below:
 
-[Deployed link](https://drive.google.com/file/d/1srGCANeEjENkK1Na1VY41BijlM5_eDcY/view) UPDATE!!!!!!!!!!
+[Deployed link](https://annak-text-editor.onrender.com/) 
 
-[Screenshot]() UPDATE!!!!!!!!!!
+[Screenshot]
 
 ## Credits
 
