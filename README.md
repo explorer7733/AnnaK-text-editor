@@ -22,7 +22,7 @@ To review "AnnaK-text-editor", you can click on the link and see the screenshot 
 
 [Deployed link](https://annak-text-editor.onrender.com/) 
 
-[Screenshot]
+[text_editor_screenshot](./text_editor_screenshot.png)
 
 ## Credits
 
